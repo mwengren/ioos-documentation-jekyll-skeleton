@@ -133,13 +133,13 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 # if you're using disqus for comments, add the shortname here. if not, leave this value blank.
 
 
-# added settings for IOOS (replace 'ioos-documentation-jekyll-skeleton' with your GitHub repo name:
+# EDIT HERE! Added settings for IOOS (replace 'ioos-documentation-jekyll-skeleton' with your GitHub repo name):
 url                      : "https://ioos.github.io"
-baseurl                  : "/ioos-documentation-jekyll-skeleton"
+baseurl                  : "/your-documentation-repo-name"
 
 repository               : "ioos/documentation-theme-jekyll"
 
-github_editme_path       : "ioos/ioos-documentation-jekyll-skeleton/blob/gh-pages/_docs"
+github_editme_path       : "ioos/your-documentation-repo-name/blob/gh-pages/_docs"
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 #Setup/config for 'ioos_jekyll_theme' git submodule:
